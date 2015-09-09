@@ -1,0 +1,1 @@
+powershell.exe -file C:\Users\pedro\Desktop\enableordisable.ps1 
